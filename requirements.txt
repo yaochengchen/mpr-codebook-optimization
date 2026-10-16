@@ -1,0 +1,8 @@
+# tested with Python 3.10-3.13; GPU runs used PyTorch with CUDA
+torch>=2.1
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+tabulate>=0.9      # pandas.to_markdown (results_summary.md)
+h5py>=3.8          # BRISC .mat (v7.3) files

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+# new experiment runs (archived paper results live in results/)
+experiments/results/
+experiments/results_v2/
+experiments/logs/
+# BRISC raw data and caches (~19 GB; see data/brisc/README.md)
+data/brisc/*.mat
+data/brisc/*.npy
+data/brisc/cache/
+data/brisc/.log_*

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Factorized Multilinear Codebook Optimization for Large Phased Arrays and Reconfigurable Intelligent Surfaces (code and results)"
+authors:
+  - family-names: Zhuang
+    given-names: Jiapei
+    orcid: "https://orcid.org/0000-0002-9140-5139"
+    affiliation: "Quantum Science Center of Guangdong-Hong Kong-Macao Greater Bay Area"
+  - family-names: Chen
+    given-names: Yaocheng
+    orcid: "https://orcid.org/0000-0002-8967-4911"
+    affiliation: "IAG, Universidade de São Paulo"
+license: MIT
+type: software
+date-released: "2026-10-16"
+preferred-citation:
+  type: article
+  title: "Factorized Multilinear Codebook Optimization for Large Phased Arrays and Reconfigurable Intelligent Surfaces"
+  authors:
+    - family-names: Zhuang
+      given-names: Jiapei
+    - family-names: Chen
+      given-names: Yaocheng
+  journal: "IEEE Access"
+  year: 2026
+  notes: "Submitted"
